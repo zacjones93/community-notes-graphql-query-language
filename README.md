@@ -1,4 +1,21 @@
-# community-notes-graphql-query-language
+<h1 align="center"><a href="https://egghead.io/courses/graphql-query-language">GraphQL Query Language</a></h1>
+
+<p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/236/full/EGH_GraphQLQuery_Final.png" width="200"></p>
+
+These notes are being taken as part of an @eggheadio study group working through [GraphQL Query Language](https://egghead.io/courses/graphql-query-language).
+
+Some question(s) are outlined in the essential questions section of the README for you to think about as you take the workshop. There is no 'definitive' answer to these questions but as you learn, you'll develop a more contextualized answer.
+
+Right below is the intended outcomes of the course, these are the skills and knowledge you will learn that you can take to any application to use.
+
+## Essential Questions
+
+[TODO]
+
+## Outcomes
+- write queries to obtain all the data needed for an app in one response
+- use mutations to add and change data
+- GraphQL subscriptions and realtime
 
 ## GraphQL Query Language Description
 
