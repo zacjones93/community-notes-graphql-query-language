@@ -76,3 +76,7 @@ in browser ide that lets you send queries
 ## **Input types, unions, interfaces, & return payloads**
 
 ## **Introspective Queries**
+
+## Contribute
+
+These are community notes that I hope everyone who studies benefits from. If you notice areas that could be improved please feel free to open a PR!
